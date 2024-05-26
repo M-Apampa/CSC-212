@@ -1,0 +1,5 @@
+﻿  animate.cpp
+C:\GLP\gravballproj\animate.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  test.cpp
+  Generating Code...
+  gravballproij.vcxproj -> C:\GLP\gravballproj\Debug\gravballproj.exe
