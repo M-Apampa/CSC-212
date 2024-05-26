@@ -1,0 +1,15 @@
+﻿  EBO.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\EBO.h(5,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  main4.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\main4.cpp(2,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  shaderClass.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\shaderClass.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  stb.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\stb.cpp(2,9): error C1083: Cannot open include file: 'stb/stb_image.h': No such file or directory
+  Texture.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\Texture.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  VAO.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\VAO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  VBO.cpp
+C:\Users\new\Downloads\ OpenGL_Pyramid\VBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Generating Code...
